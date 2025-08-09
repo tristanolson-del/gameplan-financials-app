@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+functions/node_modules/
+
+# build outputs / caches
+dist/
+build/
+.next/
+functions/.next/
+.firebase/
+.cache/
+*.log
+
+# env files
+.env*
